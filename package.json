@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstrikesbak/fizzy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kstrikesbak/fizzy/issues"
+  },
+  "homepage": "https://github.com/kstrikesbak/fizzy#readme"
 }
